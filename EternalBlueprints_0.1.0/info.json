@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "title": "Eternal Blueprints",
   "author": "gmyx",
-  "contact": "TBD",
-  "homepage": "TBD",
+  "contact": "github@gpws.ca",
+  "homepage": "https://github.com/gmyx/EternalBlueprints",
   "description": "Allows to extend the life of blueprints",
   "dependencies": ["base >= 0.12.11"]
 }
