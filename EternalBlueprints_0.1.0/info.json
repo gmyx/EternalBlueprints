@@ -1,0 +1,10 @@
+{
+  "name": "EternalBlueprints",
+  "version": "0.1.0",
+  "title": "Eternal Blueprints",
+  "author": "gmyx",
+  "contact": "TBD",
+  "homepage": "TBD",
+  "description": "Allows to extend the life of blueprints",
+  "dependencies": ["base >= 0.12.11"]
+}
