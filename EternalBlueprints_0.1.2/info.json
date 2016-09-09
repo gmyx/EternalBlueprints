@@ -1,10 +1,11 @@
 {
   "name": "EternalBlueprints",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "title": "Eternal Blueprints",
   "author": "gmyx",
-  "contact": "github@gpws.ca",
+  "contact": "gmyx@gpws.ca",
   "homepage": "https://github.com/gmyx/EternalBlueprints",
   "description": "Allows to extend the life of blueprints",
-  "dependencies": ["base >= 0.12.11"]
+  "factorio_version": "0.13",
+  "dependencies": ["base >= 0.13.00"]
 }

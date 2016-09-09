@@ -1,5 +1,4 @@
 require "util"
-require "defines"
 
 function players_print(message)
 	for _,player in ipairs(game.players) do
